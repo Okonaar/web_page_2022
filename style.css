@@ -1,0 +1,162 @@
+.full-screen
+{
+	position: relative;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	padding: 0px 0px;
+}
+
+.full-screen-video
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	object-fit: color;
+}
+
+.full-screen-body
+{
+	position: relative;
+	z-index: 2;
+	display: flex;
+	flex: 1 1 auto;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	text-transform: uppercase;
+}
+
+.full-screen-title
+{
+	color: white;
+	font-size: 50px;
+	letter-spacing: 25px;
+	font-weight: 700;
+	margin: 0px 0px 20px 0px;
+}
+
+.full-screen-text
+{
+	color: white;
+	font-size: 18px;
+	letter-spacing: 15px;
+}
+
+.zsu
+{
+	float: right;
+	text-align: center;
+	padding-left: 15px;
+}
+
+.reporting_for_assistance
+{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+.top_elems
+{
+	padding-left: 90px;
+	padding-right: 90px;
+	padding-top: 10px;
+}
+
+.main_block
+{
+
+	padding-left: 90px;
+	padding-right: 90px;
+}
+
+.picture1
+{
+	padding-left: 90px;
+	padding-top: 0px;
+	padding-right: 90px;
+	padding-bottom: 5px;
+}
+
+.picture2
+{
+	padding-left: 90px;
+	padding-top: 0px;
+	padding-right: 90px;
+	padding-bottom: 5px;
+}
+
+.menu
+{
+	padding-left: 90px;
+	padding-right: 90px;
+}
+
+.menu-title
+{
+	font-family: "Times New Roman", sans-serif;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 25px;	
+	padding-bottom: 10px;
+	color: #FFB50C;
+}
+
+a 
+{
+  outline: none;
+  text-decoration: none;
+}
+
+a:visited 
+{
+  color: #3914AF;
+}
+
+
+p
+{
+	font-family: "Times New Roman", sans-serif;
+	font-style: italic;
+	font-size: 18px;
+	color: ;
+}
+
+h2
+{
+	font-family: "Times New Roman", sans-serif;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: normal;
+	color: #4671D5;
+	text-align: center;
+}
+
+h3
+{
+	font-family: "MV Boli", sans-serif;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 17px;
+	color: #FFC000;
+}
+
+li
+{
+	font-family: "Times New Roman", sans-serif;
+	font-style: italic;
+	font-size: 18px;
+}
+
+.table_1
+{
+	font-family: "Times New Roman", sans-serif;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 15px;
+	text-align: center;
+	margin: auto;
+}
